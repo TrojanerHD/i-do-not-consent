@@ -6,7 +6,7 @@ function main(): void {
     )
   )
     return;
-  const hostArray = location.hostname.split('.');
+  const hostArray: string[] = location.hostname.split('.');
   hostArray.pop();
   switch (hostArray.join('.')) {
     case 'consent.youtube':
