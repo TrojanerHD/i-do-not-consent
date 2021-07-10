@@ -24,4 +24,4 @@ Run `tsc -p .` in the root directory of this project
 + I do not guarantee to update this addon
 + Currently, this plugin only works for specifically domains ending with `.com`. Other countries's domains (like `.de`) are not supported
 
-However, feel free to open [issues](https://github.com/TrojanerHD/issues/new) if the extension does not work for you (make sure you have the newest version installed before reporting an issue)
+However, feel free to open [issues](https://github.com/TrojanerHD/i-do-not-consent/issues/new) if the extension does not work for you (make sure you have the newest version installed before reporting an issue)
