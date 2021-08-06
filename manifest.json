@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
   "name": "I Do Not Consent",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Stop getting annoyed by “Do you consent” pop ups. But instead of just accepting them, reject them as much as possible",
   "content_scripts": [
     {
       "matches": [
-        "*://consent.youtube.com/m*",
+        "*://*.youtube.com/*",
         "*://*.google.com/*"
       ],
       "js": [
